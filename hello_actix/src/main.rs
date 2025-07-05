@@ -56,4 +56,3 @@ pub async fn main() -> std::io::Result<()> {
     .run()
     .await
 }
-// This is the main entry point for the Actix web application.
